@@ -87,4 +87,4 @@ Completing the project involves several steps:
 
 For more detail about each of these steps, see the project lesson.
 
-new test
+External IP: a0053f57952384cfa948797002dd166f-955676753.us-east-2.elb.amazonaws.com
